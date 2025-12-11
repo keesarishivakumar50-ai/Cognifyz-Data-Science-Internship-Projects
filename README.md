@@ -23,8 +23,8 @@ Ensure you have the following installed:
 Python 3.8+
 Jupyter Notebook / JupyterLab
 Common data science libraries such as:
-pandas
-numpy
-matplotlib
-seaborn
-scikit-learn
+pandas ,
+numpy ,
+matplotlib , 
+seaborn , 
+scikit-learn .
